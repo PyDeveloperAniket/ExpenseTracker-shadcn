@@ -1,5 +1,59 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+##folder structure
+.
+├── client/
+│   └── src/
+│       ├── components/
+│       │   ├── Addexpense.js
+│       │   ├── Analysis.js
+│       │   ├── Barchart.js
+│       │   ├── Daily.js
+│       │   ├── DatePicker2.js
+│       │   ├── DoughnutChart.js
+│       │   ├── Home.js
+│       │   ├── LineChart.js
+│       │   ├── List.js
+│       │   ├── Login.js
+│       │   ├── Profile.js
+│       │   ├── ProfileExpand.js
+│       │   ├── SetBudget.js
+│       │   └── Signup.js
+│       ├── lib/
+│       │   └── utils.js
+│       ├── Pages/
+│       │   ├── ConfirmDelete.js
+│       │   ├── DailySpendAnalysis.js
+│       │   ├── Dashboard.js
+│       │   ├── LandingPage.js
+│       │   ├── Main.js
+│       │   ├── MainAnalysis.js
+│       │   ├── Main.js
+│       │   ├── MainAnalysis.js
+│       │   ├── MainDaily.js
+│       │   └── MainSpendAnalysis.js
+│       ├── utilities/
+│       │   └── Categorysegator.js
+│       ├── App.js
+│       ├── App.css
+│       ├── index.js
+│       └── reportWebVitals.js
+└── server/
+    ├── controller/
+    │   ├── authController.js
+    │   └── expenseControl.js
+    ├── middleware/
+    │   └── authMiddleware.js
+    ├── models/
+    │   ├── expense.js
+    │   └── user.js
+    ├── router/
+    │   ├── expenseRouter.js
+    │   ├── index.js
+    │   └── userRouter.js
+    ├── .env
+    └── app.js
+
 ## Getting Started
 
 First, run the development server:

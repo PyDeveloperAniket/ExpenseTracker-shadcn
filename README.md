@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ##folder structure
-.
+[.
 ├── client/
 │   └── src/
 │       ├── components/
@@ -52,7 +52,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
     │   ├── index.js
     │   └── userRouter.js
     ├── .env
-    └── app.js
+    └── app.js](https://tree.nathanfriend.io/?s=(%27optiYs!(%27fancyG~fullPath!false~traZQgSlashG~rootDotG)~U(%27U%27cliXt4src*compYXtq0Add7-5-BarcKI-DatePick82-DoughnNCKHome-LQeCKList-LogQOOExpand-SetBudget-SignupFlib*0NZsFPageq0CYfirmDelete-Iz-Dashboard-LandQgPage6656656I6zFNZitieq0CategorysegatorFAppFApp.csqQdexFreportWebVitals-000Ts8v84c9l8*aNhC9l8F7C934mJ*aNhMJ34modelq7Fus834r_*7R_FQdexFus8R_34.Xv4app3T%27)~v8siY!%271%27)*40-F00%20%203.js4T05Analysis6-MaQ7expXse8er9YtrolF3*G!trueIDaZyJiddlewareKhart-NutO-ProfZeQinT%5CnUsource!XenYonZil_oN8qs*zSpXd5%01zq_ZYXUTQONKJIGF98765430-*)
 
 ## Getting Started
 
